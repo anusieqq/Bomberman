@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Bomberman","l":"BombermanServer.BombermanEvent"},{"p":"Bomberman","l":"BombermanMenu"},{"p":"Bomberman","l":"BombermanServer"},{"p":"Bomberman","l":"BombermanServer.EventType"},{"p":"Bomberman","l":"GraczTest"},{"p":"org.example","l":"Main"}];updateSearchResults();
